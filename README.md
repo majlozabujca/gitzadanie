@@ -1,0 +1,2 @@
+# gitzadanie
+Git commity
